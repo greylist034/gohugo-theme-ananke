@@ -1,0 +1,24 @@
+.measure-wide {
+    max-width: 110%;
+    
+}
+
+/*.f4 {
+    font-size: .5 rem;
+}*/
+
+table {
+    border-collapse: collapse;
+/*    margin: 0 auto;
+    
+    display: block;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+
+    overflow-x: auto;
+    white-space: wrap;*/
+}
+td, th {
+    border: 1px solid #333;
+    padding: 0 .2em;
+}
